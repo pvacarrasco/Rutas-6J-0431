@@ -30,7 +30,8 @@ samples, guidance on mobile development, and a full API reference.
 
 -imagen pantalla 2:
 
-![image](https://github.com/pvacarrasco/Rutas-6J-0431/assets/143549258/87195659-0a85-4b71-96aa-eb4168c3b561)
+![image](https://github.com/pvacarrasco/Rutas-6J-0431/assets/143549258/f2f46d78-8545-4c25-b7c4-dd9f2be6e1a6)
+
 
 
 
